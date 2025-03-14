@@ -20,7 +20,7 @@ A simple **To-Do List** web application built with **React** and **Tailwind CSS*
 ## How to Run
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/todo-list-react.git
+    git clone https://github.com/Parashar-Nitin/ToDoList
     ```
 2. Install dependencies:
     ```bash
