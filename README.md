@@ -27,13 +27,17 @@ A simple **To-Do List** web application built with **React** and **Tailwind CSS*
     cd todo-list-react
     npm install
     ```
-3. Start the development server:
+3. Install `uuid` module:
     ```bash
-    npm start
+    npm install uuid
     ```
-   This will launch the app in your browser at `http://localhost:3000`.
+4. Start the development server:
+    ```bash
+    npm run dev
+    ```
+   This will launch the app in your browser at `http://localhost:5173`.
 
-4. Open the app and start managing your to-do list!
+5. Open the app and start managing your to-do list!
 
 ## Example Interaction
 Here is how the application interacts with the user:
